@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riti-s&label=Profile%20views&color=bd7ebe&style=flat" alt="riti-s" /> </p>
 
-- 🌱 I’m currently learning **JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/riti-s](https://github.com/riti-s)
 
 - 📫 How to reach me **ritiram1812@gmail.com**
