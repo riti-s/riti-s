@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riti S</h1>
-<h3 align="center">A 1st year Computer Science student just stepping into the world of coding.</h3>
+<h3 align="center">A 3rd year Computer Science student interested in pursuing a career in the field of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riti-s&label=Profile%20views&color=0e75b6&style=flat" alt="riti-s" /> </p>
 
