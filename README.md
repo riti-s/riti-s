@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ritisalay.my.canva.site/](https://ritisalay.my.canva.site/)
+- 👨‍💻 All of my projects are available at []()
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hRqsqCNd5YiYzHlzZbty2MTW2ES6S4ms9EikhCjaapc/edit?usp=sharing](https://docs.google.com/document/d/1hRqsqCNd5YiYzHlzZbty2MTW2ES6S4ms9EikhCjaapc/edit?usp=sharing)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
